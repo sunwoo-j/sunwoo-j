@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Sunwoo&animation=fadeIn&textBg=false&desc=Welcome%20to%20my%20profile&reversal=false&section=header&descAlignY=64"/>
+</div>
 
 <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/webpage-20232a.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000"/></a>
 
@@ -11,6 +13,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
 </p>
 <h4 align="center">🕸️ Web Development </h4>
+<p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp
