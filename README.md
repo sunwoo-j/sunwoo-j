@@ -4,7 +4,7 @@
 
 <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/webpage-20232a.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000"/></a>
 
-<h3 align="center">📚 Tech Stack </h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 <h4 align="center">🧑‍💻 Programming Languages </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp
@@ -40,16 +40,17 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🎖️ Expertise & Abilities </h3>
+<h3 align="center">🎖️ Expertise & Abilities 🎖️</h3>
 <h4 align="center">🎨 Design & Media </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/></a>&nbsp
 </p>
 <h4 align="center">🏢 Office Productivity</h4>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/></a>&nbsp
+<p align="center">
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/></a>&nbsp
 </p>
