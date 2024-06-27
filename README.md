@@ -10,7 +10,7 @@
 <h4 align="center">🧑‍💻 Programming Languages </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp
-  <img src="https://img.shields.io/badge/c%23-%23FFFFFF.svg?style=for-the-badge&logo=csharp&logoColor=A27ADD&"/></a>&nbsp
+  <img src="https://img.shields.io/badge/c%23-%23A27ADD.svg?style=for-the-badge&logo=csharp&logoColor=FFFFFF&"/></a>&nbsp
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f7df1e"/></a>&nbsp
 </p>
