@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/webpage-121011.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000"/></a>
-  <a href="mailto:jung.snw@gmail.com"><img src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+  <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/webpage-2e2b2b.svg?style=for-the-badge&logo=jekyll&logoColor=cc0000"/></a>
+  <a href="mailto:jung.snw@gmail.com"><img src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
   <a href="https://www.linkedin.com/in/sunwoojung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -12,7 +12,7 @@
 <h4 align="center">🧑‍💻 Programming Languages </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp
-  <img src="https://img.shields.io/badge/c%23-%23A27ADD.svg?style=for-the-badge&logo=csharp&logoColor=FFFFFF&"/></a>&nbsp
+  <img src="https://img.shields.io/badge/c%23-%23A27ADD.svg?style=for-the-badge&logo=csharp&logoColor=ffffff"/></a>&nbsp
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f7df1e"/></a>&nbsp
 </p>
