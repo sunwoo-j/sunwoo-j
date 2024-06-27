@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/webpage-121011.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000"/></a>
+  <a href="malito:jung.snw@gmail.com"><img src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
   <a href="https://www.linkedin.com/in/sunwoojung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="jung.snw@gmail.com"><img src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
