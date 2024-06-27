@@ -3,7 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/webpage-20232a.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000"/></a>
+  <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/webpage-121011.svg?style=for-the-badge&logo=jekyll&logoColor=CC0000"/></a>
+  <a href="https://www.linkedin.com/in/sunwoojung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="jung.snw@gmail.com"><img src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -34,8 +36,8 @@
 <h4 align="center">🛠 Development Tools </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&labelColor=FE305E"/></a>&nbsp
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/></a>&nbsp
 </p>
 
