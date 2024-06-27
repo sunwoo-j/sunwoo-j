@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/webpage-2e2b2b.svg?style=for-the-badge&logo=jekyll&logoColor=cc0000"/></a>
+  <a href="https://sunwoo-j.github.io/"><img src="https://img.shields.io/badge/website-2e2b2b.svg?style=for-the-badge&logo=jekyll&logoColor=cc0000"/></a>
   <a href="mailto:jung.snw@gmail.com"><img src="https://img.shields.io/badge/email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
   <a href="https://www.linkedin.com/in/sunwoojung"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
