@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/></a>&nbsp
 </p>
 
+<hr>
+
 <h3 align="center">🎖️ Expertise & Abilities 🎖️</h3>
 <h4 align="center">🎨 Design & Media </h4>
 <p align="center">
@@ -59,6 +61,8 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/></a>&nbsp
 </p>
+
+<hr>
 
 <p align="center">
   <img src="https://github.com/sunwoo-j/github-stats-transparent/blob/output/generated/overview.svg?raw=true"/>
