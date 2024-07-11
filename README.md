@@ -64,5 +64,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunwoo-j&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sunwoo-j&style=for-the-badge&color=green"/>
 </p>
