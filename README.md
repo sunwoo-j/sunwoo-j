@@ -59,10 +59,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunwoo-j"/>
+  <img src="https://github.com/sunwoo-j/github-stats-transparent/blob/output/generated/overview.svg?raw=true"/>
+  <img src="https://github.com/sunwoo-j/github-stats-transparent/blob/output/generated/languages.svg?raw=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/sunwoo-j/github-stats-transparent/blob/output/generated/overview.svg?raw=true"/>
-  <img src="https://github.com/sunwoo-j/github-stats-transparent/blob/output/generated/languages.svg?raw=true"/>
+  <img src="https://komarev.com/ghpvc/?username=sunwoo-j"/>
 </p>
